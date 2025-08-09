@@ -1,0 +1,12 @@
+head = removekthele(head, 2);
+        // print(head);
+        // deleteNode(head.next);
+        // print(head);
+        // head = insertHead(head, 20);
+        // print(head);
+        // head = insertTail(head, 30);
+        // print(head);
+        // head = insertBefK(head, 3, 45);
+        // print(head);
+        // insertbefNode(head.next.next, 78);
+        // print(head);
