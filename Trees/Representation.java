@@ -47,8 +47,8 @@ public class Representation{
         root.left = new Node(3);
         root.right = new Node(7);
         root.right.left = new Node(9);
-        // preorder(root);
-        // inorder(root);
+        preorder(root);
+        inorder(root);
         postorder(root);
     }
 }

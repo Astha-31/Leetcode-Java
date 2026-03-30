@@ -7,7 +7,7 @@ public class sumofnnaturalnumbers {
         sum(i + n ,n- 1);
     }
     public static void main(String[] args){
-        int n = 3;
+        int n = 4;
         sum(0, n);
         
     }

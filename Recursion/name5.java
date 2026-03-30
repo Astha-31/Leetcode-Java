@@ -18,12 +18,12 @@ public class name5{
         if(s.charAt(i) != s.charAt(n - i - 1)) return false;
          return palindrome(s, n, i+ 1);
     }
-    private static void print12n(int i, int n){
-        if(i > n) return;
-        System.out.println(i);
-        print12n(i + 1, n);
+    // private static void print12n(int i, int n){
+    //     if(i > n) return;
+    //     System.out.println(i);
+    //     print12n(i + 1, n);
         
-    }
+    // }
 
     private static void printn21(int i, int n){
         if(i < 1) return;  

@@ -1,4 +1,4 @@
-head = removekthele(head, 2);
+// head = removekthele(head, 2);
         // print(head);
         // deleteNode(head.next);
         // print(head);
